@@ -8,61 +8,63 @@ Whether you're just starting out or need quick, customizable hero layouts for a 
 
 ## 🚀 How to Use
 
-1. **Clone the Repository**
-  
-2. **Pick a Template**
-
-   - Navigate into any folder (like hero1, hero2, etc.)
-  
-   - Open index.html in your browser or code editor
-
-3. **Copy & Paste**
-
-   - Use the HTML and CSS code directly in your own project
-  
-   - Customize text, colors, fonts, spacing, etc.
-
-✅ No build tools, no JS, no dependencies — just pure HTML and CSS.
-
-////////////////////////////////////////////////////////////////////////////////////
-
-🙌 **Contributing**
-
-Contributions are welcome and appreciated! Here's how you can help:
-
-📌 **Add a New Hero Section**
-
-1. Fork this repository
-
-2. Create a new folder (e.g. hero4/)
-
-3. Add:
-
-    - index.html
+    1. Clone the Repository
+      
+    2. Pick a Template
     
-    - style.css
-
-    - Optional: Add a preview image in the preview/ folder
-
-4. Make sure your code:
-
-    - Is responsive
+       - Navigate into any folder (like hero1, hero2, etc.)
+      
+       - Open index.html in your browser or code editor
     
-    - Uses only HTML + CSS
+    3. Copy & Paste
     
-    - Follows a clean and consistent structure
+       - Use the HTML and CSS code directly in your own project
+      
+       - Customize text, colors, fonts, spacing, etc.
+    
+    ✅ No build tools, no JS, no dependencies — just pure HTML and CSS.
 
-5. Open a pull request with your changes
 
-////////////////////////////////////////////////////////////////////////////////////
 
-📄 License
+## 📌 **Add a New Hero Section**
 
-This project is licensed under the MIT License.
+    1. Fork this repository
+    
+    2. Create a new folder (e.g. hero4/)
+    
+    3. Add:
+    
+        - index.html
+        
+        - style.css
+    
+        - Optional: Add a preview image in the preview/ folder
+    
+    4. Make sure your code:
+    
+        - Is responsive
+        
+        - Uses only HTML + CSS
+        
+        - Follows a clean and consistent structure
+    
+    5. Open a pull request with your changes
 
-////////////////////////////////////////////////////////////////////////////////////
 
-✍️ In short:
+
+## 🙌 **Contributing**
+
+    Contributions are welcome and appreciated! Here's how you can help:
+
+
+
+## 📄 License
+
+    This project is licensed under the MIT License.
+
+
+
+## ✍️ In short:
 
 **You can freely use, modify, and share the code, just give credit, and don’t hold me liable for anything that goes wrong.**
 
@@ -76,5 +78,5 @@ This project is licensed under the MIT License.
     
     - Anyone who wants clean and responsive UI building blocks
 
---->> If you found this helpful, consider giving the repo a star to support the project.
-Made with ❤️ to help you build one hero section at a time.
+    --->> If you found this helpful, consider giving the repo a star to support the project.
+    Made with ❤️ to help you build one hero section at a time.
