@@ -1,6 +1,6 @@
 # 🎯 Hero Sections Bundle (HTML + CSS)
 
-A beginner-friendly collection of responsive Hero Section templates built using HTML and CSS — ready to copy, paste, and use in your web projects.
+A beginner-friendly collection of responsive Hero Section templates built using HTML and CSS, ready to copy, paste, and use in your web projects.
 
 Whether you're just starting out or need quick, customizable hero layouts for a personal or client project, this bundle makes it easy to build beautiful landing pages without any frameworks or JavaScript.
 
