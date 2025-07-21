@@ -26,27 +26,6 @@ Whether you're just starting out or need quick, customizable hero layouts for a 
 
 ////////////////////////////////////////////////////////////////////////////////////
 
-📁 Folder Structure
-
-hero-sections-bundle/
-│
-├── hero1/
-│   ├── index.html
-│   └── style.css
-│
-├── hero2/
-│   ├── index.html
-│   └── style.css
-│
-├── preview/
-│   ├── hero1.png
-│   ├── hero2.png
-│   └── hero3.png
-│
-└── LICENSE
-
-////////////////////////////////////////////////////////////////////////////////////
-
 🙌 **Contributing**
 
 Contributions are welcome and appreciated! Here's how you can help:
@@ -59,19 +38,19 @@ Contributions are welcome and appreciated! Here's how you can help:
 
 3. Add:
 
-  - index.html
-  
-  - style.css
+    - index.html
+    
+    - style.css
 
-  - Optional: Add a preview image in the preview/ folder
+    - Optional: Add a preview image in the preview/ folder
 
 4. Make sure your code:
 
-  - Is responsive
-  
-  - Uses only HTML + CSS
-  
-  - Follows a clean and consistent structure
+    - Is responsive
+    
+    - Uses only HTML + CSS
+    
+    - Follows a clean and consistent structure
 
 5. Open a pull request with your changes
 
@@ -89,13 +68,13 @@ This project is licensed under the MIT License.
 
 💡 Who Is This For?
 
-  - Beginners learning HTML & CSS
-  
-  - Developers looking for ready-made layouts
-  
-  - Quick prototyping for portfolios or landing pages
-  
-  - Anyone who wants clean and responsive UI building blocks
+    - Beginners learning HTML & CSS
+    
+    - Developers looking for ready-made layouts
+    
+    - Quick prototyping for portfolios or landing pages
+    
+    - Anyone who wants clean and responsive UI building blocks
 
 --->> If you found this helpful, consider giving the repo a star to support the project.
-Made with ❤️ to help you build one hero section at a time. <<---
+Made with ❤️ to help you build one hero section at a time.
