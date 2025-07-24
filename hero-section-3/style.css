@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+.hero_section {
+  position: relative;
+  padding: 80px 30px;
+  border-bottom: 2px solid rgb(199, 199, 199);
+  background-color: rgb(245, 247, 250);
+}
+
+.container {
+  width: 100%;
+  max-width: 940px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.hero-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero_split {
+  display: flex;
+  max-width: 46%;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.hero_split h1 {
+  margin-bottom: 10px;
+  font-size: 38px;
+  letter-spacing: 0;
+  text-align: center;
+  color: #333;
+  font-weight: 700;
+}
+
+.hero_split p {
+  margin-bottom: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333;
+}
+
+.hero_split button {
+  padding: 12px 25px;
+  background-color: rgb(26, 27, 31);
+  transition-property: all;
+  transition-duration: 200ms;
+  transition-timing-function: ease;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.hero_split button:hover {
+  background-color: rgb(50, 52, 58);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.hero_split button:active {
+  background-color: rgb(67, 70, 77);
+}
+
+.hero_split img {
+  box-shadow: rgba(150, 163, 181, 0.08) 0px 4px 24px 0px;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/*----------------------------------------------------------------------------------------------------*/
+
+/*---Media Queries for Responsiveness---*/
+
+@media screen and (max-width: 991px) {
+  .container {
+    max-width: 728px;
+  }
+
+  .hero-wrapper {
+    margin-bottom: -40px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .hero_split {
+    max-width: 100%;
+    margin-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .hero_section {
+    padding: 60px 15px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .container {
+    max-width: none;
+  }
+  .hero_split h1 {
+    margin-bottom: 14px;
+    text-align: left;
+  }
+}
+
+/*----------------------------------------------------------------------------------------------------*/
